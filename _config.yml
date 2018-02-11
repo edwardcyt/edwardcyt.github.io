@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Edward Tsai
+email:       edwardcyt@gmail.com
+author:      Edward Tsai
+description: "Data science and anything else"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "edwardcyt.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -51,7 +51,8 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+show_social_icons: true
+github_username: edwardcyt
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
@@ -59,7 +60,7 @@ twitter_username:
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: edwardcyt
 angellist_username:
 medium_id:
 bitcoin_url:
