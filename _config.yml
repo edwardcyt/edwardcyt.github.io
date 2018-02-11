@@ -51,6 +51,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
+show_social_icons: true
 github_username: edwardcyt
 reddit_username:
 bitbucket_username:
