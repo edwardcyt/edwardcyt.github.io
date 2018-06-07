@@ -4,7 +4,7 @@ email:       edwardcyt@gmail.com
 author:      Edward Tsai
 description: "Data science and everything else"
 baseurl:     ""
-url:         "edwardcyt.github.io"
+url:         ""
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
