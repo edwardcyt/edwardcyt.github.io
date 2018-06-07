@@ -46,6 +46,9 @@
     {% if site.vk_id %}
       <a class="fa fa-vk" href="https://vk.com/{{ site.vk_id }}"></a>
     {% endif %}
+    {% if site.spotify_id %}
+      <a class="fa fa-spotify" href="spotify:user:{{ site.spotify_id }}"></a>
+    {% endif %}
   </div>
   <div class="right">
     {% if site.bitcoin_url %}
