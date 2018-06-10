@@ -5,7 +5,7 @@ permalink: /about/
 tags: about
 ---
 
-![center]({{ site.baseurl }}/images/IMG_3428.JPG)
+![center]({{ site.baseurl }}/images/me.JPG)
 
 Hey, my name is Edward Tsai
 
