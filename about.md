@@ -7,7 +7,7 @@ tags: about
 
 ![center]({{ site.baseurl }}/images/me.JPG)
 
-![center]({{ site.baseurl }}/images/me2.JPG)
+![center]({{ site.baseurl }}/images/me2.png)
 
 ![center]({{ site.baseurl }}/images/IMG_3428.JPG)
 
