@@ -5,4 +5,10 @@ permalink: /about/
 tags: about
 ---
 
-Data analytics professional with strong quantitative and problem solving skills. Passionate about delivering business results with data-driven analysis and strategy
+![What was I looking]({{ site.baseurl }}/images/me.JPG)
+
+## ME
+
+Hey, my name is Edward Tsai
+
+I am a data analytics professional currently working for Facebook based in Menlo Park, CA. 
